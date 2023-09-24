@@ -1,6 +1,6 @@
 //Donation Drive
 
-package Contest.starters.starters95;
+package CodeChef.Contest.starters.starters95;
 
 import java.util.Scanner;
 
