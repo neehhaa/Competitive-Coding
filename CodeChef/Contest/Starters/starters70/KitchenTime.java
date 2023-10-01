@@ -1,6 +1,6 @@
 //Kitchen Timings
 
-package Contest.starters.starters70;
+package CodeChef.Contest.Starters.starters70;
 
 import java.util.Scanner;
 
